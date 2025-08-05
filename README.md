@@ -1,3 +1,42 @@
-# Portfolio
-jaewon's Potfolio
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter</title><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
+# 👋 Hi, I'm Jaewon Jeong
+
+I’m an aspiring **App Developer** with experience in Flutter, FastAPI, and Machine Learning.  
+Welcome to my portfolio!
+
+---
+
+## 🚀 Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+---
+
+## 🛠️ Projects
+
+### 📱 MySalary (2024)
+> AI/ML 연봉 예측 서비스  
+🔗 [View Project](https://github.com/yourusername/mysalary)  
+🔧 Flutter + FastAPI + ML (FLAML)
+
+### 🚲 Seoul Bike Predictor
+> 따릉이 수요 예측 및 시각화 프로젝트  
+🔗 [GitHub Repo](https://github.com/yourusername/bike-predictor)  
+📊 Pandas, Scikit-learn, Optuna
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/jaewon-jeong](https://linkedin.com/in/jaewon-jeong)  
+- 🧑‍💻 Blog: [jaewon.dev](https://yourblog.com)
+
+---
+
+> 📌 꾸준히 성장하는 개발자, 협업과 도전을 즐깁니다.
