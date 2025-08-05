@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaewon Jeong
+# 👋 Hi, I'm Jaewon Kim
 
 I’m an aspiring **App Developer** with experience in Flutter, FastAPI, and Machine Learning.  
 Welcome to my portfolio!
