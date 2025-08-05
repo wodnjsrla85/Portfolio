@@ -3,6 +3,9 @@
 I’m an aspiring **App Developer** with experience in Flutter, FastAPI, and Machine Learning.  
 Welcome to my portfolio!
 
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🚀 Skills & Tools
